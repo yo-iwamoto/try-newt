@@ -23,6 +23,7 @@ module.exports = {
     'react/jsx-props-no-spreading': 'off',
     'react/function-component-definition': 'off',
     'import/no-extraneous-dependencies': 'off', // for the conflict with jest
+    'no-underscore-dangle': 'off',
 
     // custom
     'import/order': [
